@@ -15,18 +15,7 @@ module.exports = {
   externals: [nodeExternals()], // in order to ignore all modules in node_modules folder
 
   entry: {
-    app: './source/app.ts',
-    vendor: [
-      'reflect-metadata',
-      'es6-shim',
-      'angular2/bundles/angular2-polyfills',
-      'angular2/bootstrap',
-      'angular2/platform/browser',
-      'angular2/platform/common_dom',
-      'angular2/core',
-      'angular2/router',
-      'angular2/http'
-     ]
+    app: './source/main.ts'
   },
 
   output: {

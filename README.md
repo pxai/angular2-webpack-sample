@@ -1,10 +1,10 @@
-# Angular2 sample based on Todo MVC
+# Angular2 sample using webpack
 Todo MVC - Batarangle Example Application
 
-Use this application to get familiar with Batarangle
-and with webpack
+Use this application to get familiar with Batarangle webpack
 
 ## Building and Serving
-
-1. Build the application by running the `npm install` command.
-2. Serve the application by running the `npm start` command.
+1. npm install
+2. npm postinstall
+3. webpack    : launches webpack build
+4. npm start  : to serve de app

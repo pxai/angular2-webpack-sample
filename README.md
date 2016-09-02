@@ -1,5 +1,5 @@
 # angular2-webpack
-Fork of angular2-webpack project.
+Fork of [angular2-webpack project](https://github.com/preboot/angular2-webpack).
 
 **Note: This guide is following the Angular's [Style Guide](http://angular.io/styleguide) so I will be changing conventions here and there eventually. You are free to use your own conventions with this starter.**
 
